@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialogkotlin</string>
+    <array name="countries">
+        <item>Australia</item>
+        <item>Amerika</item>
+        <item>Malaysia</item>
+    </array>
+</resources>
